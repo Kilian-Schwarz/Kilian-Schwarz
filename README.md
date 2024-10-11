@@ -1,60 +1,101 @@
-<!-- Profil Banner -->
-![Banner](https://your-image-link/banner.png)
+# 💫 About Me:
 
-# 👋 Welcome to my GitHub Profile
+I’m Programming and scripting for fun and to automate stuff and post it here
 
-## 💡 About Me:
-Hi, I'm Kilian Schwarz! I enjoy programming and scripting to automate tasks and solve real-world problems. My GitHub is where I share my personal projects, contributions, and experiments.
+## 🌐 Socials:
 
-- 🔧 Passionate about **automation** and **problem-solving**.
-- 👨‍💻 Working with a wide variety of technologies including web development, system administration, and scripting.
-- 🚀 Always learning new things and staying up-to-date with modern technologies.
-- 🌍 Interested in open-source projects and contributing to the community.
+!https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white
 
-## 🚀 Tech Stack:
-Here are some of the technologies I work with:
+!https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
 
-**Languages:**
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+!https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white
 
-**Frameworks and Tools:**
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+# 💻 Tech Stack:
 
-**Databases:**
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+!https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 
-## 📊 GitHub Stats:
-Here are some of my GitHub activity highlights:
+!https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 
-![Kilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kilian-Schwarz&show_icons=true&theme=dark&count_private=true)
+!https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
 
-![Kilian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Schwarz&layout=compact&theme=dark&hide_border=true)
+!https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white
 
-## 💻 Featured Projects:
-Here are some of the cool things I've worked on:
+https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 
-### 🔧 [Project 1 Title](https://github.com/Kilian-Schwarz/Project1)
-A short description of this project. Technologies used: `Python`, `Django`, `PostgreSQL`.
+!https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
 
-### 🌍 [Project 2 Title](https://github.com/Kilian-Schwarz/Project2)
-A short description of this project. Technologies used: `JavaScript`, `Node.js`, `MongoDB`.
+!https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white
 
-## 🌐 Connect with Me:
-Feel free to reach out and connect with me on social media!
+!https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/webschwarz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kilianschwarz)
-[![X (formerly Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KilianSchwarz)
+!https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
+
+!https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white
+
+!https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+
+https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
+
+!https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
+
+!https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+
+!https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white
+
+https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
+
+!https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white
+
+https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+
+!https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white
+
+!https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white
+
+https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34
+
+https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white
+
+https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white
+
+https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+
+!https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+
+!https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
+
+!https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+
+!https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
+
+!https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white
+
+!https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+
+!https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+
+!https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white
+
+!https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+
+!https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black
+
+!https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white
+
+!https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
+
+# 📊 GitHub Stats:
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Kilian-Schwarz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact
+
+https://github-readme-stats.vercel.app/api?username=Kilian-Schwarz&theme=dark&hide_border=true&include_all_commits=true&count_private=true
+
+https://github-readme-streak-stats.herokuapp.com/?user=Kilian-Schwarz&theme=dark&hide_border=true
+
+### ✍️ Random Dev Quote
+
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 
 ---
 
-⭐️ From [Kilian Schwarz](https://github.com/Kilian-Schwarz)
+https://visitcount.itsvg.in/api?id=Kilian-Schwarz&icon=3&color=8
